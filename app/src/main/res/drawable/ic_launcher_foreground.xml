@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background Circle (Significantly smaller) -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Inner Circle (Empty Counter Display) -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M54,54m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+
+    <!-- Small Beads (Top) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M54,32m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Right) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M76,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Bottom) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M54,76m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Left) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M32,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Top-Right) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M69.5,38.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Bottom-Right) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M69.5,69.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Bottom-Left) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M38.5,69.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+    <!-- Small Beads (Top-Left) -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M38.5,38.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
